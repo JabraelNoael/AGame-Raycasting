@@ -1,3 +1,3 @@
 tag @s add caster
-execute anchored eyes positioned ^ ^ ^ run function parent:class/cast/mbt/monk/mbt2
+execute anchored eyes positioned ^ ^ ^ run function raycast:generic/tick
 tag @s remove caster

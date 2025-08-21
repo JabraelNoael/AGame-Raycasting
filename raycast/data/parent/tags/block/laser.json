@@ -1,0 +1,8 @@
+{
+  "values": [
+	"#parent:raycast",
+	"#parent:raycast/glass",
+	"minecraft:slime_block",
+	"minecraft:honey_block"
+  ]
+}

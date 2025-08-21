@@ -1,0 +1,33 @@
+{
+  "values": [
+	"minecraft:command_block",
+	"minecraft:player_head",
+	"minecraft:red_bed",
+	"minecraft:spruce_sign",
+	"minecraft:iron_sword",
+	"minecraft:birch_door",
+	"minecraft:stone_sword",
+	"minecraft:crossbow",
+	"minecraft:blaze_powder",
+	"minecraft:chainmail_chestplate",
+	"minecraft:experience_bottle",
+	"minecraft:cobweb",
+	"minecraft:chain",
+	"minecraft:sweet_berries",
+	"minecraft:pufferfish",
+	"minecraft:leather_helmet",
+	"minecraft:leather_chestplate",
+	"minecraft:leather_leggings",
+	"minecraft:leather_boots",
+	"minecraft:compass",
+	"minecraft:glow_ink_sac",
+	"minecraft:feather",
+	"minecraft:fermented_spider_eye",
+	"minecraft:comparator",
+	"minecraft:lightning_rod",
+	"minecraft:skull_banner_pattern",
+	"minecraft:nautilus_shell",
+	"minecraft:goat_horn",
+	"minecraft:barrier"
+  ]
+}
